@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "solveNQueensTest1",
+      "setup": "gradle clean",
+      "run": "gradle test --tests AssignmentTwoTests.solveNQueensTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "solveNQueensTest2",
+      "setup": "",
+      "run": "gradle test --tests AssignmentTwoTests.solveNQueensTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "ladderLengthTest1",
+      "setup": "",
+      "run": "gradle test --tests AssignmentTwoTests.ladderLengthTest1",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "ladderLengthTest2",
+      "setup": "",
+      "run": "gradle test --tests AssignmentTwoTests.ladderLengthTest2",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
